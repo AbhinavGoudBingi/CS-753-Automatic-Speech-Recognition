@@ -1,0 +1,1 @@
+My best WER for this task after tuning of the parameters is 58.28.

@@ -1,0 +1,2 @@
+Advantage: CTC has the advantage of being alignment free. We can use CTC without aligning the input sequence and output sequence as we do with HMMs.
+Disadvantage: The conditional independence assumption of CTCs between characters in the output sequence is a disadvantage compared to other model, which can model it.
